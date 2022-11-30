@@ -1,0 +1,27 @@
+div {
+    margin: .4em 0;
+}
+
+div label {
+    width: 10%;
+    float: left;
+}
+
+h1 {
+    margin: 50px;
+    background-image: url(/src/assets/images/Leave.png);
+    font-size: 40px;
+    position: relative;
+    padding: 20px 20px 0 0;
+    border: green 5px solid;
+    border-radius: 20px;
+    background-color: green;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    color: whitesmoke;
+}
+
+.Error {
+    color: #dc3545;
+}
